@@ -1,7 +1,6 @@
 | #Lab | Topics name |
 |------|-------------|
 | 1 | ✔️ [Lab 1 – Installation, creating user and giving system privileges](#) |
-            [like]
 | 2 | ✔️ [Lab 2 – DDL](#) |
 | 3 | ✔️ [Lab 3 – DML](#) |
 | 4 | ✔️ [Lab 4 – Aggregate function, group by, nested subquery, set](#) |
