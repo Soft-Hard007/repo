@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary><b><a href = "#Curve-Fitting:-Regression">Curve Fitting: Regression</a></b></summary>
+<summary><b><a href = "#Curve-Fitting">Curve Fitting: Regression</a></b></summary>
 <br>
 
 <details>
