@@ -1197,7 +1197,7 @@ Output
 <br>
 ---
 
-## SNumerical Differentiation
+## Numerical Differentiation
 
 <br>
 
