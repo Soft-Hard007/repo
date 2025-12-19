@@ -18,16 +18,16 @@
 <details>
 <summary><a href = "#Gauss–Jordan-Elimination-Method">🔹 Gauss Jordan Elimination Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Gauss–Jordan-Elimination-Method-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Gauss–Jordan-Elimination-Method-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Gauss–Jordan-Elimination-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Gauss-Jordan-Elimination-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Gauss-Jordan-Elimination-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Gauss-Jordan-Elimination-Method-Input)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Gauss–Jordan-Elimination-Method-Output)  
 
 </details>
 <br>
 
 <details>
-<summary><a href = "#LU–Factorization-Method">🔹 LU Factorization Method</a></summary>
+<summary><a href = "#LU-Factorization-Method">🔹 LU Factorization Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-LU–Factorization-Method-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-LU-Factorization-Method-Code)  
