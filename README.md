@@ -676,10 +676,27 @@ Roots found in the given range:
 
 ### ➕ Advantages
 
+1. This method is Simple and Easy to Understand.<br>
+
+2. If the function changes sign over [a, b], the method always converges to a root.<br>
+
+3. Works with only functional value not the differential value. <br>
+
+4. Bisection method Works on Any Continuous Function<br> 
+
+5. After n iterations, the maximum error is   (b-a)/2<sup>n</sup><br>
+
 <br>
 
 ### ➖ Disadvantages
 
+1. Bisection method takes many iterations. That’s why this method is slower than Newton-Raphson Method. <br>
+
+2. Bisection method only works when f(a) * f(b)<0.It Fails when both endpoints have same sign. <br>
+
+3. If function touches the axis without crossing the axis, bisection may unable to solve it. <br>
+
+4. This method Can detect only one root in an interval. <br>
 <br>
 
 ### 🚀 Applications
