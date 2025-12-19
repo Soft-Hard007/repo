@@ -159,22 +159,22 @@
 <details>
 <summary><a href = "#Newton-Backward-Interpolation_Method">🔹 Newton Backward Interpolation Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Backward-Interpolation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Backward-Interpolation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Backward-Interpolation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Backward-Interpolation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Backward-Interpolation-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Backward-Interpolation-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Backward-Interpolation-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Backward-Interpolation-Method-Output)  
 
 </details>
 <br>
 
 
 <details>
-<summary><a href = "#Newton-Divided-Difference-Interpolation-Method">🔹 Newton Divided Difference Interpolation</a></summary>
+<summary><a href = "#Newton-Divided-Difference-Interpolation-Method">🔹 Newton Divided Difference Interpolation Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Divided-Difference-Interpolation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Divided-Difference-Interpolation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Divided-Difference-Interpolation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Divided-Difference-Interpolation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Divided-Difference-Interpolation-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Divided-Difference-Interpolation-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Divided-Difference-Interpolation-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Divided-Difference-Interpolation-Method-Output)  
 
 </details>
 <br>
@@ -909,6 +909,113 @@ Output
 <br>
 
 ---
+
+## Newton Backward Interpolation Method
+
+<br>
+
+### 📖 Newton Backward Interpolation Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Newton Backward Interpolation Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Newton Backward Interpolation Method Input
+```
+Input
+```
+<br>
+
+### 📤 Newton Backward Interpolation Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+## Newton Divided Difference Interpolation Method
+
+<br>
+
+### 📖 Newton Divided Difference Interpolation Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Newton Divided Difference Interpolation Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Newton Divided Difference Interpolation Method Input
+```
+Input
+```
+<br>
+
+### 📤 Newton Divided Difference Interpolation Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
 
 
 
