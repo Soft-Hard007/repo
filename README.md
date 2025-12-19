@@ -213,7 +213,7 @@
 </details>
 <br>
 <details>
-<summary><a href = "#Simpson-3/8-Rule">🔹 Simpson 38 Rule</a></summary>
+<summary><a href = "#Simpson-38-Rule">🔹 Simpson 3/8 Rule</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Simpson-38-Rule-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Simpson-38-Rule-Code)  
