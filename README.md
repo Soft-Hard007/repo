@@ -106,12 +106,12 @@
 <br>
 
 <details>
-<summary><a href = "#Least-Square-Regression-(Linear-Equation)">🔹 Least Square Regression (Linear Equation)</a></summary>
+<summary><a href = "#Least-Square-Regression-Linear-Equation">🔹 Least Square Regression (Linear Equation)</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression-(Linear-Equation)-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression-(Linear-Equation)-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression-(Linear-Equation)-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression-(Linear-Equation)-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression-Linear-Equation-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression-Linear-Equation-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression-Linear-Equation-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression-Linear-Equation-Output)  
 
 </details>
 <br>
