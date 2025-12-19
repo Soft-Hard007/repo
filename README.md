@@ -1,5 +1,5 @@
 <details>
-<summary>✔️ <b>[Lab 1 – Installation](#lab1)</b></summary>
+<summary> [Lab 1 – Installation](#lab1)</summary>
 
 🔹 [Lab first 1 hr](#lab1-first-hour)  
 🔹 [Lab last 1 hr](#lab1-last-hour)
