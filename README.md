@@ -305,7 +305,7 @@ Output
 
 ---
 
-## <a id="Gauss-Jordan-Elimination-Method"></a> Gauss Jordan Elimination Method
+## Gauss Jordan Elimination Method
 
 <br>
 
