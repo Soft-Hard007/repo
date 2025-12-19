@@ -305,11 +305,11 @@ Output
 
 ---
 
-## Gauss Jordan Elimination Method
+## Gauss-Jordan Elimination Method
 
 <br>
 
-### 📖 Gauss Jordan Elimination Method Theory
+### 📖 Gauss-Jordan Elimination Method Theory
 
 <br>
 
@@ -321,20 +321,20 @@ Output
 
 <br>
 
-### 💻 Gauss Jordan Elimination Method Code
+### 💻 Gauss-Jordan Elimination Method Code
 
 ```cpp
 code
 ```
 <br>
 
-### 📝 Gauss Jordan Elimination Method Input
+### 📝 Gauss-Jordan Elimination Method Input
 ```
 Input
 ```
 <br>
 
-### 📤 Gauss Jordan Elimination Method Output
+### 📤 Gauss-Jordan Elimination Method Output
 ```
 Output
 ```
@@ -358,11 +358,11 @@ Output
 
 ---
 
-## LU Factorization Method
+## LU-Factorization Method
 
 <br>
 
-### 📖 LU Factorization Method Theory
+### 📖 LU-Factorization Method Theory
 
 <br>
 
@@ -374,20 +374,20 @@ Output
 
 <br>
 
-### 💻 LU Factorization Method Code
+### 💻 LU-Factorization Method Code
 
 ```cpp
 code
 ```
 <br>
 
-### 📝 LU Factorization Method Input
+### 📝 LU-Factorization Method Input
 ```
 Input
 ```
 <br>
 
-### 📤 LU Factorization Method Output
+### 📤 LU-Factorization Method Output
 ```
 Output
 ```
