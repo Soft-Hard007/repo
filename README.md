@@ -146,35 +146,35 @@
 <br>
 
 <details>
-<summary><a href = "#Newton's-Forward-Interpolation">🔹 Newton's Forward Interpolation Method</a></summary>
+<summary><a href = "#Newton-Forward-Interpolation">🔹 Newton Forward Interpolation Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton's-Forward-Interpolation-Method-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton's-Forward-Interpolation-Method-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton's-Forward-Interpolation-Method-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton's-Forward-Interpolation-Method-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Forward-Interpolation-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Forward-Interpolation-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Forward-Interpolation-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Forward-Interpolation-Method-Output)  
 
 </details>
 <br>
 
 <details>
-<summary><a href = "#Newton's-Backward-Interpolation">🔹 Newton's Backward Interpolation</a></summary>
+<summary><a href = "#Newton-Backward-Interpolation">🔹 Newton Backward Interpolation</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton's-Backward-Interpolation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton's-Backward-Interpolation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton's-Backward-Interpolation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton's-Backward-Interpolation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Backward-Interpolation-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Backward-Interpolation-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Backward-Interpolation-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Backward-Interpolation-Output)  
 
 </details>
 <br>
 
 
 <details>
-<summary><a href = "#Newton's-Divided-Difference-Interpolation">🔹 Newton's Divided Difference Interpolation</a></summary>
+<summary><a href = "#Newton-Divided-Difference-Interpolation">🔹 Newton Divided Difference Interpolation</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton's-Divided-Difference-Interpolation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton's-Divided-Difference-Interpolation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton's-Divided-Difference-Interpolation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton's-Divided-Difference-Interpolation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Divided-Difference-Interpolation-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Divided-Difference-Interpolation-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton-Divided-Difference-Interpolation-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton-Divided-Difference-Interpolation-Output)  
 
 </details>
 <br>
@@ -857,11 +857,11 @@ Output
 
 ---
 
-## Newton's Forward Interpolation Method
+## Newton Forward Interpolation Method
 
 <br>
 
-### 📖 Newton's Forward Interpolation Method Theory
+### 📖 Newton Forward Interpolation Method Theory
 
 <br>
 
@@ -873,20 +873,20 @@ Output
 
 <br>
 
-### 💻 Newton's Forward Interpolation Method Code
+### 💻 Newton Forward Interpolation Method Code
 
 ```cpp
 code
 ```
 <br>
 
-### 📝 Newton's Forward Interpolation Method Input
+### 📝 Newton Forward Interpolation Method Input
 ```
 Input
 ```
 <br>
 
-### 📤 Newton's Forward Interpolation Method Output
+### 📤 Newton Forward Interpolation Method Output
 ```
 Output
 ```
