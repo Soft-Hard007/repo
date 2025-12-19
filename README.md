@@ -5,7 +5,7 @@
 <br>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
+<summary><a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#Gauss-Elimination-Method-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#Gauss-Elimination-Method-Code)  
@@ -250,10 +250,56 @@
 ## Solution of Linear Equations
 
 <br>
+---
 
-## <a id="Gauss-Elimination-Method"></a> Gauss Elimination Method
+## Gauss Elimination Method
 
 <br>
 
-### <a id="Gauss-Elimination-Method-Theory"></a> 📖 Gauss Elimination Method Theory
-Gauss Elimination is an algorithm used to solve systems of linear equations by transforming the system's augmented matrix into an upper triangular form (row echelon form) using elementary row operations.
+### 📖 Gauss Elimination Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Gauss Elimination Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Gauss Elimination Method Input
+```
+Input
+```
+<br>
+
+### 📤 Gauss Elimination Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
