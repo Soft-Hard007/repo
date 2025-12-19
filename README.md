@@ -117,24 +117,24 @@
 <br>
 
 <details>
-<summary><a href = "#Least-Square-Regression:-Transcendental-Equation">🔹 Least Square Regression: Transcendental Equation</a></summary>
+<summary><a href = "#Least-Square-Regression-Transcendental-Equation">🔹 Least Square Regression (Transcendental Equation)</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression:-Transcendental-Equation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression:-Transcendental-Equation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression:-Transcendental-Equation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression:-Transcendental-Equation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression-Transcendental-Equation-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression-Transcendental-Equation-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression-Transcendental-Equation-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression-Transcendental-Equation-Output)  
 
 </details>
 <br>
 
 
 <details>
-<summary><a href = "#Least-Square-Regression:-Polynomial-Equation">🔹 Least Square Regression: Polynomial Equation</a></summary>
+<summary><a href = "#Least-Square-Regression-Polynomial-Equation">🔹 Least Square Regression (Polynomial Equation)</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression:-Polynomial-Equation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression:-Polynomial-Equation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression:-Polynomial-Equation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression:-Polynomial-Equation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression-Polynomial-Equation-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression-Polynomial-Equation-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression-Polynomial-Equation-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression-Polynomial-Equation-Output)  
 
 </details>
 <br>
@@ -742,6 +742,136 @@ Output
 <br>
 
 ---
+
+## Least Square Regression (Transcendental Equation)
+
+<br>
+
+### 📖 Least Square Regression (Transcendental Equation) Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Least Square Regression (Transcendental Equation) Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Least Square Regression (Transcendental Equation) Input
+```
+Input
+```
+<br>
+
+### 📤 Least Square Regression (Transcendental Equation) Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+## Least Square Regression (Polynomial Equation)
+
+<br>
+
+### 📖 Least Square Regression (Polynomial Equation) Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Least Square Regression (Polynomial Equation) Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Least Square Regression (Polynomial Equation) Input
+```
+Input
+```
+<br>
+
+### 📤 Least Square Regression (Polynomial Equation) Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
