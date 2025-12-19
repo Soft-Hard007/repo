@@ -683,6 +683,67 @@ Output
 
 ---
 
+---
+
+# Curve-Fitting
+
+<br>
+---
+
+## Least Square Regression: Linear Equation
+
+<br>
+
+### 📖 Least Square Regression: Linear Equation Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Least Square Regression: Linear Equation Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Least Square Regression: Linear Equation Input
+```
+Input
+```
+<br>
+
+### 📤 Least Square Regression: Linear Equation Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
 
 
 
