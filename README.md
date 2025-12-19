@@ -213,12 +213,12 @@
 </details>
 <br>
 <details>
-<summary><a href = "#Simpson-3/8-Rule">🔹 Simpson 3/8 Rule</a></summary>
+<summary><a href = "#Simpson-3/8-Rule">🔹 Simpson 38 Rule</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Simpson-3/8-Rule-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Simpson-3/8-Rule-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Simpson-3/8-Rule-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Simpson-3/8-Rule-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Simpson-38-Rule-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Simpson-38-Rule-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Simpson-38-Rule-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Simpson-38-Rule-Output)  
 
 </details>
 <br>
@@ -1081,6 +1081,10 @@ Output
 
 # Integration
 
+<br>
+
+---
+
 ## Simpson 1/3 Rule
 
 <br>
@@ -1133,6 +1137,60 @@ Output
 <br>
 
 ---
+
+## Simpson 3/8 Rule
+
+<br>
+
+### 📖 Simpson 3/8 Rule Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Simpson 3/8 Rule Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Simpson 3/8 Rule Input
+```
+Input
+```
+<br>
+
+### 📤 Simpson 3/8 Rule Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
 
 
 
