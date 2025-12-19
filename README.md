@@ -203,12 +203,12 @@
 <br>
 
 <details>
-<summary><a href = "#Simpson-1/3-Rule">🔹 Simpson 1/3 Rule</a></summary>
+<summary><a href = "#Simpson-13-Rule">🔹 Simpson 1/3 Rule</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Simpson-1/3-Rule-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Simpson-1/3-Rule-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Simpson-1/3-Rule-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Simpson-1/3-Rule-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Simpson-13-Rule-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Simpson-13-Rule-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Simpson-13-Rule-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Simpson-13-Rule-Output)  
 
 </details>
 <br>
