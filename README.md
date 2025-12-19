@@ -1,74 +1,54 @@
 # 📘 Table of Contents
 
 <details>
-<summary><b>➕ Solution of Linear Equations</b></summary>
+<summary><b><a href = "#Solution-of-Linear-Equations">Solution of Linear Equations</a></b></summary>
 
 <details>
-<summary>🔹 Gauss Elimination Method</summary>
+<summary><a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
 
-### 📖 Theory  
-(Write theory here)
-
-### 💻 Code  
-(Write code here)
-
-### 📝 Input  
-(Write input format here)
-
-### 📤 Output  
-(Write sample output here)
+📖 [Theory](#Gauss-Elimination-Method-Theory)  
+💻 [Code](#Gauss-Elimination-Method-Code)
+📝 [Input](#Gauss-Elimination-Method-Input)  
+📤 [Output](#Gauss-Elimination-Method-Output)  
 
 </details>
 
 <details>
-<summary>🔹 Gauss–Jordan Elimination Method</summary>
-
-### 📖 Theory  
-(Write theory here)
-
-### 💻 Code  
-(Write code here)
-
-### 📝 Input  
-(Write input format here)
-
-### 📤 Output  
-(Write sample output here)
+<summary><a href = "#Gauss–Jordan-Elimination-Method">🔹 Gauss–Jordan Elimination Method</a></summary>
+  
+📖 [Theory](#Gauss–Jordan-Elimination-Method-Theory)  
+💻 [Code](#Gauss–Jordan-Elimination-Method-Code)
+📝 [Input](#Gauss–Jordan-Elimination-Method-Input)  
+📤 [Output](#Gauss–Jordan-Elimination-Method-Output)  
 
 </details>
 
 <details>
-<summary>🔹 LU–Factorization Method</summary>
+<summary><a href = "#LU–Factorization-Method">🔹 LU–Factorization Method</a></summary>
 
-### 📖 Theory  
-(Write theory here)
-
-### 💻 Code  
-(Write code here)
-
-### 📝 Input  
-(Write input format here)
-
-### 📤 Output  
-(Write sample output here)
+📖 [Theory](#LU–Factorization-Method-Theory)  
+💻 [Code](#LU–Factorization-Method-Code)
+📝 [Input](#LU–Factorization-Method-Input)  
+📤 [Output](#LU–Factorization-Method-Output)  
 
 </details>
 
 <details>
-<summary>🔹 Matrix Inversion Method</summary>
+<summary><a href = "#Matrix-Inversion-Method">🔹 Matrix Inversion Method</a></summary>
 
-### 📖 Theory  
-(Write theory here)
-
-### 💻 Code  
-(Write code here)
-
-### 📝 Input  
-(Write input format here)
-
-### 📤 Output  
-(Write sample output here)
+📖 [Theory](#Matrix-Inversion-Method-Theory)  
+💻 [Code](#Matrix-Inversion-Method-Code)
+📝 [Input](#Matrix-Inversion-Method-Input)  
+📤 [Output](#Matrix-Inversion-Method-Output)  
 
 </details>
 
 </details>
+
+---
+
+##Solution of Linear Equations
+
+##Gauss Elimination Method
+
+##Gauss Elimination Method Theory
