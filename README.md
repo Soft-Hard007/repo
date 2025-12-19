@@ -469,17 +469,16 @@ Output
 # Solution of Non-Linear Equations
 
 A non-linear equation is an equation in which the highest power of the variable is greater than 1 or the variables appear in non-linear forms (squared, cubed, trigonometric, logarithmic, etc). <br>
-Example: 
-        x<sup>2</sup> + 4x - 10 = 0<br>
-        e<sup>x</sup> - 4x = 0<br>
+Example: x<sup>2</sup> + 4x - 10 = 0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;e<sup>x</sup> - 4x = 0<br>
 There are some techniques to solve the non-linear equations. Such as  
 
-**-> Bracketing Methods **<br>
+-> **Bracketing Methods** <br>
 
-**-> Open Methods **<br>
+-> **Open Methods** <br>
 
 
-**Bracketing methods** are a class of numerical algorithms used to find the roots of a non-linear equation f(x) = 0. They are called "bracketing" methods because they require two initial guesses, a and b, that "bracket" or surround the root between them. <br>
+**Bracketing methods** are a class of numerical algorithms used to find the roots of a non-linear equation f(x) = 0. They are called **bracketing** methods because they require two initial guesses, a and b, that "bracket" or surround the root between them. <br>
 
 Popular Bracketing Method: <br>
 
