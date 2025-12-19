@@ -1,12 +1,6 @@
 | #Lab | Topics name |
 |------|-------------|
-| 1 |  [Lab 1 – Installation, creating user and giving system privileges](#) |
-| 2 |  [Lab 2 – DDL](#) |
-| 3 |  [Lab 3 – DML](#) |
-| 4 |  [Lab 4 – Aggregate function, group by, nested subquery, set](#) |
-| 5 |  [Lab 5 – String operations](#) |
-| 6 |  [Lab 6 – Join, view and referential integrity](#) |
-| 7 |  [Lab 7 – PL/SQL (Declaration, insert, set value, rowtype and cursor)](#) |
-| 8 |  [Lab 8 – PL/SQL (Loop, array and IF-ELSE)](#) |
-| 9 |  [Lab 9 – Procedure and function](#) |
-| 10 |  [Lab 10 – Trigger](#) |
+| 1 | ✔️ <details><summary>Lab 1 – Installation</summary>🔹 [Lab first 1 hr](#lab1-first-hour)<br>🔹 [Lab last 1 hr](#lab1-last-hour)</details> |
+| 2 | ✔️ <details><summary>Lab 2 – DDL</summary>🔹 [Lab first 1 hr](#lab2-first-hour)<br>🔹 [Lab last 1 hr](#lab2-last-hour)</details> |
+| 3 | ✔️ <details><summary>Lab 3 – DML</summary>🔹 [Lab first 1 hr](#lab3-first-hour)<br>🔹 [Lab last 1 hr](#lab3-last-hour)</details> |
+
