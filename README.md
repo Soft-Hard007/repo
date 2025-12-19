@@ -106,12 +106,12 @@
 <br>
 
 <details>
-<summary><a href = "#Least-Square-Regression:-Linear-Equation">🔹 Least Square Regression: Linear Equation</a></summary>
+<summary><a href = "#Least-Square-Regression-(Linear-Equation)">🔹 Least Square Regression (Linear Equation)</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression:-Linear-Equation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression:-Linear-Equation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression:-Linear-Equation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression:-Linear-Equation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Least-Square-Regression-(Linear-Equation-Theory))  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Least-Square-Regression-(Linear-Equation-Code))  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Least-Square-Regression-(Linear-Equation-Input))  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Least-Square-Regression-(Linear-Equation-Output))  
 
 </details>
 <br>
@@ -690,11 +690,11 @@ Output
 <br>
 ---
 
-## Least Square Regression: Linear Equation
+## Least Square Regression (Linear Equation)
 
 <br>
 
-### 📖 Least Square Regression: Linear Equation Theory
+### 📖 Least Square Regression (Linear Equation) Theory
 
 <br>
 
@@ -706,20 +706,20 @@ Output
 
 <br>
 
-### 💻 Least Square Regression: Linear Equation Code
+### 💻 Least Square Regression (Linear Equation) Code
 
 ```cpp
 code
 ```
 <br>
 
-### 📝 Least Square Regression: Linear Equation Input
+### 📝 Least Square Regression (Linear Equation) Input
 ```
 Input
 ```
 <br>
 
-### 📤 Least Square Regression: Linear Equation Output
+### 📤 Least Square Regression (Linear Equation) Output
 ```
 Output
 ```
