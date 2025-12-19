@@ -7,10 +7,10 @@
 <details>
 <summary><a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📖 Theory](#Gauss-Elimination-Method-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [💻 Code](#Gauss-Elimination-Method-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📝 Input](#Gauss-Elimination-Method-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📤 Output](#Gauss-Elimination-Method-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📖 Theory](#-Gauss-Elimination-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [💻 Code](#-Gauss-Elimination-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📝 Input](#-Gauss-Elimination-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📤 Output](#-Gauss-Elimination-Method-Output)  
 
 </details>
 <br>
