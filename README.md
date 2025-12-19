@@ -1077,6 +1077,73 @@ Output
 
 ---
 
+---
+
+# Integration
+
+## Simpson 1/3 Rule
+
+<br>
+
+### 📖 Simpson 1/3 Rule Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Simpson 1/3 Rule Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Simpson 1/3 Rule Input
+```
+Input
+```
+<br>
+
+### 📤 Simpson 1/3 Rule Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
