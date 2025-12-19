@@ -146,12 +146,12 @@
 <br>
 
 <details>
-<summary><a href = "#Newton's-Forward-Interpolation">🔹 Newton's Forward Interpolation</a></summary>
+<summary><a href = "#Newton's-Forward-Interpolation">🔹 Newton's Forward Interpolation Method</a></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton's-Forward-Interpolation-Theory)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton's-Forward-Interpolation-Code)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton's-Forward-Interpolation-Input)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton's-Forward-Interpolation-Output)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton's-Forward-Interpolation-Method-Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton's-Forward-Interpolation-Method-Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Input](#-Newton's-Forward-Interpolation-Method-Input)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📤 [Output](#-Newton's-Forward-Interpolation-Method-Output)  
 
 </details>
 <br>
@@ -848,6 +848,76 @@ Output
 <br>
 
 ---
+
+---
+
+# Interpolation
+
+<br>
+
+---
+
+## Newton's Forward Interpolation Method
+
+<br>
+
+### 📖 Newton's Forward Interpolation Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Newton's Forward Interpolation Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Newton's Forward Interpolation Method Input
+```
+Input
+```
+<br>
+
+### 📤 Newton's Forward Interpolation Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
