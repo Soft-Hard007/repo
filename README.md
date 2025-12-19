@@ -1016,6 +1016,85 @@ Output
 
 ---
 
+---
+
+# Solution of Ordinary Differential Equation
+
+<br>
+
+---
+
+## Runge Kutta Method Method
+
+<br>
+
+### 📖 Runge Kutta Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Runge Kutta Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Runge Kutta Method Input
+```
+Input
+```
+<br>
+
+### 📤 Runge Kutta Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
