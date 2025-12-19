@@ -1024,7 +1024,7 @@ Output
 
 ---
 
-## Runge Kutta Method Method
+## Runge Kutta Method
 
 <br>
 
