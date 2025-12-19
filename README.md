@@ -464,6 +464,248 @@ Output
 
 ---
 
+---
+
+# Solution of Non-Linear Equations
+
+<br>
+---
+
+## Bisection Method
+
+<br>
+
+### 📖 Bisection Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Bisection Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Bisection Method Input
+```
+Input
+```
+<br>
+
+### 📤 Bisection Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+## False Position Method
+
+<br>
+
+### 📖 False Position Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 False Position Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 False Position Method Input
+```
+Input
+```
+<br>
+
+### 📤 False Position Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+## Newton-Raphson Method
+
+<br>
+
+### 📖 Newton-Raphson Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Newton-Raphson Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Newton-Raphson Method Input
+```
+Input
+```
+<br>
+
+### 📤 Newton-Raphson Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+## Secant Method
+
+<br>
+
+### 📖 Secant Method Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Secant Method Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Secant Method Input
+```
+Input
+```
+<br>
+
+### 📤 Secant Method Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
