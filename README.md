@@ -468,6 +468,11 @@ Output
 
 # Solution of Non-Linear Equations
 
+A non-linear equation is an equation in which the highest power of the variable is greater than 1 or the variables appear in non-linear forms (squared, cubed, trigonometric, logarithmic, etc). 
+Example: 
+        x<sup>2</sup> + 4x - 10 = 0
+        e<sup>x</sup> - 4x = 0
+
 <br>
 ---
 
