@@ -157,7 +157,7 @@
 <br>
 
 <details>
-<summary><a href = "#Newton-Backward-Interpolation_Method">🔹 Newton Backward Interpolation Method</a></summary>
+<summary><a href = "#Newton-Backward-Interpolation-Method">🔹 Newton Backward Interpolation Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Backward-Interpolation-Method-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Backward-Interpolation-Method-Code)  
