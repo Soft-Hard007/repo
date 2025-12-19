@@ -27,7 +27,7 @@
 <br>
 
 <details>
-<summary><a href = "#LU–Factorization-Method">🔹 LU Factorization Method</a></summary>
+<summary><a href = "#lu–factorization-method">🔹 LU Factorization Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-lu–factorization-method-theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-lu–factorization-method-code)  
