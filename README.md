@@ -49,7 +49,6 @@
 
 </details>
 
-<br>
 
 <details>
 <summary><b><a href = "#Solution-of-Non-Linear-Equations">Solution of Non-Linear Equations</a></b></summary>
