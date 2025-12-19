@@ -146,7 +146,7 @@
 <br>
 
 <details>
-<summary><a href = "#Newton-Forward-Interpolation">🔹 Newton Forward Interpolation Method</a></summary>
+<summary><a href = "#Newton-Forward-Interpolation-Method">🔹 Newton Forward Interpolation Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Forward-Interpolation-Method-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Forward-Interpolation-Method-Code)  
@@ -157,7 +157,7 @@
 <br>
 
 <details>
-<summary><a href = "#Newton-Backward-Interpolation">🔹 Newton Backward Interpolation</a></summary>
+<summary><a href = "#Newton-Backward-Interpolation_Method">🔹 Newton Backward Interpolation Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Backward-Interpolation-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Backward-Interpolation-Code)  
@@ -169,7 +169,7 @@
 
 
 <details>
-<summary><a href = "#Newton-Divided-Difference-Interpolation">🔹 Newton Divided Difference Interpolation</a></summary>
+<summary><a href = "#Newton-Divided-Difference-Interpolation-Method">🔹 Newton Divided Difference Interpolation</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#-Newton-Divided-Difference-Interpolation-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#-Newton-Divided-Difference-Interpolation-Code)  
