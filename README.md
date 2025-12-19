@@ -1,16 +1,8 @@
-<details>
-<summary> <b>Solution of Linear Equations</b></summary>
+## 📘 Table of Contents – Solution of Linear Equations
 
-📎 [Linear Equation](#Linear-Equation)  
- <details>
-<summary>🔹 <b>[Gauss Elimination Method](#Gauss-Elimination-Method)</b></summary>
+- 📎 [Linear Equation](#linear-equation)
+- 🔹 [Gauss Elimination Method](#gauss-elimination-method)
+- 🔹 [Gauss-Jordan Elimination Method](#gauss-jordan-elimination-method)
+- 🔹 [LU-factorization Method](#lu-factorization)
+- 🔹 [Matrix Inversion Method](#matrix-inversion-method)
 
-</details>
-🔹 <details> 
-  <summary>[Gauss-Jordan elimination method](#Gauss-Jordan-elimination-method)</summary>
-</details>
-
-🔹 [LU-factorization Method](#LU-factorization)
-🔹 [Matrix Inversion Method](#Matrix-Inversion-Method)
- 
-</details>
