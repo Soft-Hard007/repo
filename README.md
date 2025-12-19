@@ -470,7 +470,7 @@ Output
 
 A non-linear equation is an equation in which the highest power of the variable is greater than 1 or the variables appear in non-linear forms (squared, cubed, trigonometric, logarithmic, etc). <br>
 Example: x<sup>2</sup> + 4x - 10 = 0<br>
-&nbsp;&nbsp;&nbsp;&nbsp;e<sup>x</sup> - 4x = 0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e<sup>x</sup> - 4x = 0<br>
 There are some techniques to solve the non-linear equations. Such as  
 
 -> **Bracketing Methods** <br>
@@ -502,6 +502,10 @@ Popular Open Method: <br>
 
 ### 📖 Bisection Method Theory
 
+The Bisection Method is one of the simplest numerical techniques for finding the solution of a non-linear equation f(x) = 0. It is also known as binary chopping and half interval method. <br>
+
+The main concept of this method is if the function f(x) is real and continuous in the interval a<x<b and f(a) and f(b) are of opposite sign that is , f(a) *f(b) < 0 then there exist at least one solution in this interval. <br>
+
 <br>
 
 ### 🔢 Mathematical Representation
@@ -515,19 +519,154 @@ Popular Open Method: <br>
 ### 💻 Bisection Method Code
 
 ```cpp
-code
+#include<bits/stdc++.h>
+using namespace std;
+
+void prnt() {
+    cout << "============================================\n";
+    cout << "              Bisection Method\n";
+    cout << "============================================\n\n";
+}
+
+double f(double x, vector<double>& coef){
+    double res = 0.0;
+    int n = coef.size();
+    for(int i=0;i<n;i++){
+        res += coef[i]*pow(x,n-1-i);
+    }
+    return res;
+
+}
+
+void printPolynomial(vector<double> coef){
+      cout << "\nPolynomial function:\n";
+
+      int n = coef.size() - 1;
+
+    for (int i = 0; i <= n; i++) {
+        int power = n - i;
+
+        if (coef[i] == 0) continue;
+
+        if (i != 0 && coef[i] > 0)
+            cout << " + ";
+        else if(i !=0 && coef[i]<0)
+            cout<<" - ";    
+
+        if (power == 0)
+            cout << fabs(coef[i]);
+        else if (power == 1)
+            cout << fabs(coef[i]) << "x";
+        else if(fabs(coef[i]) >1)
+            cout << fabs(coef[i]) << "x^" << power;
+        else 
+            cout << "x^" << power;
+
+    }
+
+    cout << " = 0\n";
+    return;
+}
+
+double bisectionMethod(vector<double>& coef, double L, double R, double e){
+    double pos = R, neg = L, mid, x;
+
+    do{
+         mid = (pos+neg)/2.0;
+         x = f(mid,coef);
+         if(f(neg,coef)*x<0.0){pos = mid;}
+         else
+            neg = mid;
+    }while(fabs(x)>e);
+
+    return mid;
+}
+
+int main(){
+
+    double x,pos,neg,e = 0.001,mid;
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    prnt();
+    int n;
+
+    cin>>n;
+
+    vector<double>coef(n+1);
+
+
+    for (int i = 0; i <= n; i++) {
+        cin >> coef[i];
+    }
+    double L, R, h;
+
+    cin >> L >> R;
+
+
+    cin >> h;
+
+    double x1 = L, x2 = L + h;
+    bool found = false;
+
+    vector<double> roots;
+    while (x2 <= R) {
+        if (f(x1, coef) * f(x2, coef) < 0) {
+            pos = x2;
+            neg = x1;
+            roots.push_back(bisectionMethod(coef, x1, x2, e));
+        x1 = x2;
+        x2 += h;
+        continue;
+
+        }
+        x1 = x2;
+        x2 += h;
+    }
+
+    printPolynomial(coef);
+
+
+    cout << "\nRoots found in the given range:\n";int i = 0;
+
+    for (double root : roots) {
+        i++;
+        cout <<"\tx"<<i<<" = "<< fixed << setprecision(6) << root << endl;
+    }
+
+    return 0;
+}
+
 ```
 <br>
 
 ### 📝 Bisection Method Input
 ```
-Input
+6
+1 -21 175 -735 1624 -1764 720
+-5 10
+0.1
+
 ```
 <br>
 
 ### 📤 Bisection Method Output
 ```
-Output
+============================================
+              Bisection Method
+============================================
+
+
+Polynomial function:
+x^6 - 21x^5 + 175x^4 - 735x^3 + 1624x^2 - 1764x + 720 = 0
+
+Roots found in the given range:
+	x1 = 1.000006
+	x2 = 2.000024
+	x3 = 2.999951
+	x4 = 4.000049
+	x5 = 4.999976
+	x6 = 6.000006
+
 ```
 <br>
 
