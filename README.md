@@ -1191,6 +1191,70 @@ Output
 
 ---
 
+---
+
+# Differentiation
+<br>
+---
+
+## SNumerical Differentiation
+
+<br>
+
+### 📖 Numerical Differentiation Theory
+
+<br>
+
+### 🔢 Mathematical Representation
+
+<br>
+
+### 🤖 Algorithm
+
+<br>
+
+### 💻 Numerical Differentiation Code
+
+```cpp
+code
+```
+<br>
+
+### 📝 Numerical Differentiation Input
+```
+Input
+```
+<br>
+
+### 📤 Numerical Differentiation Output
+```
+Output
+```
+<br>
+
+### 🎯 Accuracy Consideration
+
+<br>
+
+### ➕ Advantages
+
+<br>
+
+### ➖ Disadvantages
+
+<br>
+
+### 🚀 Applications
+
+<br>
+
+---
+
+---
+
+
+
+
 
 
 
