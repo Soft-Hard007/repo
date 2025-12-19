@@ -5,7 +5,7 @@
 <br>
 
 <details>
-<summary><a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "#Gauss-Elimination-Method">🔹 Gauss Elimination Method</a></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📖 [Theory](#Gauss-Elimination-Method-Theory)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Code](#Gauss-Elimination-Method-Code)  
