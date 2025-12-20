@@ -249,7 +249,7 @@
 
 # Solution of Linear Equations
 
-x<sub>n+1</sub>​ = x<sub>n</sub> ​− f<sup>′</sup>(x<sub>n</sub>​)f(x<sub>n</sub>​)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x<sub>n+1</sub>​ = x<sub>n</sub> ​− f<sup>′</sup>(x<sub>n</sub>​)/f(x<sub>n</sub>​)​
 
 Calculate the midpoint $x_0$ of the current interval:$$x_0 = \frac{x_1 + x_2}{2}$$
 <br>
