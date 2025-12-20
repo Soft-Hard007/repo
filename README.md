@@ -267,16 +267,17 @@ Calculate the midpoint $x_0$ of the current interval:$$x_0 = \frac{x_1 + x_2}{2}
 
 ### 🤖 Algorithm
 
-**Step 1**: Choose two real numbers $x_1$ and $x_2$ such that the function changes sign over the interval: f($x_1$)*f($x_2$) < 0<br>
+**Step 1**: Choose two real numbers $x_1$ and $x_2$ such that the function changes sign over the interval:  f($x_1$)*f($x_2$) < 0<br>
 <br>
-**Step 2**: Calculate the midpoint $x_0$ of the current interval: $x_0$ = ($x_1$ + $x_2$)/(2)
+**Step 2**: Calculate the midpoint $x_0$ of the current interval: $x_0$ = ($x_1$ + $x_2$)/(2)<br>
 <br>
 **Step 3**: Evaluate the function at the midpoint: f($x_0$).<br>
+<br>
 **Step 4**:  If f($x_0$) = 0, then $x_0$ is the exact root. And Stop the iteration.<br>
 If f($x_0$) * f($x_1$) < 0, the root lies between $x_1$ and $x_0$. Set $x_2$ = $x_0$.<br>
 If f($x_0$) * f($x_2$) < 0, the root lies between $x_0$ and $x_2$. Set $x_1$ = $x_0$.<br>
-**Step 5**: Repeat Steps 2 through 4 until the relative error satisfies the stopping criterion:
-|($x_2$ - $x_1$)/($x_2$)| < e
+<br>
+**Step 5**: Repeat Steps 2 through 4 until the relative error satisfies the stopping criterion:  |($x_2$ - $x_1$)/($x_2$)| < e<br>
 
 <br>
 
