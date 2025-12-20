@@ -249,6 +249,7 @@
 
 # Solution of Linear Equations
 
+Calculate the midpoint $x_0$ of the current interval:$$x_0 = \frac{x_1 + x_2}{2}$$
 <br>
 ---
 
