@@ -318,12 +318,12 @@ Output
 <br>
 
 ### 🚀 Applications
-
+-asdasd
 <br>
-
+[Back to Top](#-Table-of-Contents)
 ---
 
-[Back to Top](#-Table-of-Contents)
+
 
 ## Gauss-Jordan Elimination Method
 
