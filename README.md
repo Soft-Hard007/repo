@@ -323,6 +323,8 @@ Output
 
 ---
 
+[Back to Top](#-Table-of-Contents)
+
 ## Gauss-Jordan Elimination Method
 
 <br>
