@@ -249,7 +249,7 @@
 
 # Solution of Linear Equations
 
-x_{n+1} = x_n - f(x_n) * (x_n - x_{n-1}) / (f(x_n) - f(x_{n-1}))
+```x_{n+1} = x_n - f(x_n) * (x_n - x_{n-1}) / (f(x_n) - f(x_{n-1}))```
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x<sub>n+1</sub>​ = x<sub>n</sub> ​− f<sup>′</sup>(x<sub>n</sub>​)/f(x<sub>n</sub>​)​
